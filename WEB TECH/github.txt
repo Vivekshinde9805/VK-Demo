@@ -1,0 +1,18 @@
+>> for 1 time need to configure githgub in system
+git config  --global user.name "Vivekshinde9805"
+git config  --global user.email "vivekshinde18200@gmail.com"
+
+git config --global color.ui auto
+
+Mandatory Cammands:
+>> git init
+>> git remote add origin https://github.com/Vivekshinde9805/VK-Demo.git
+
+
+git pull origin main
+git status
+
+git add .
+git status
+git commit -m"commit Message"
+git push
