@@ -14,5 +14,8 @@ git status
 
 git add .
 git status
-git commit -m"commit Message"
+
+git pushgit commit -m"Commit Message"
 git push
+
+create checkout -b "branchName"
